@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomActionNew", "CustomActionNew\CustomActionNew.csproj", "{92B1D953-803D-4E88-8502-19F36D599FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyDialog", "MultiplyDialog\MultiplyDialog.csproj", "{A1B53948-BD23-40AF-B8BA-747BA7278CC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92B1D953-803D-4E88-8502-19F36D599FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B1D953-803D-4E88-8502-19F36D599FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B1D953-803D-4E88-8502-19F36D599FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B1D953-803D-4E88-8502-19F36D599FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B53948-BD23-40AF-B8BA-747BA7278CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B53948-BD23-40AF-B8BA-747BA7278CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B53948-BD23-40AF-B8BA-747BA7278CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B53948-BD23-40AF-B8BA-747BA7278CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E1C981-4573-431D-8F2E-66B11243191F}
+	EndGlobalSection
+EndGlobal
