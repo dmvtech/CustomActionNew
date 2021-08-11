@@ -12,9 +12,6 @@ C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bi
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\recognizers\CustomActionNew.en-us.lu.dialog
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\recognizers\CustomActionNew.lu.dialog
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\recognizers\CustomActionNew.lu.qna.dialog
-C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\recognizers\emptyBot.en-us.lu.dialog
-C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\recognizers\emptyBot.lu.dialog
-C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\recognizers\emptyBot.lu.qna.dialog
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\language-generation\en-us\common.en-us.lg
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\language-generation\en-us\CustomActionNew.en-us.lg
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\language-understanding\en-us\CustomActionNew.en-us.lu
@@ -110,7 +107,6 @@ C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bi
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\obj\Debug\netcoreapp3.1\CustomActionNew.csprojAssemblyReference.cache
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\obj\Debug\netcoreapp3.1\CustomActionNew.AssemblyInfoInputs.cache
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\obj\Debug\netcoreapp3.1\CustomActionNew.AssemblyInfo.cs
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\obj\Debug\netcoreapp3.1\CustomActionNew.csproj.CoreCompileInputs.cache
@@ -123,3 +119,6 @@ C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\ob
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\obj\Debug\netcoreapp3.1\CustomActionNew.dll
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\obj\Debug\netcoreapp3.1\CustomActionNew.pdb
 C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\obj\Debug\netcoreapp3.1\CustomActionNew.genruntimeconfig.cache
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\MultiplyDialog.dll
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\bin\Debug\netcoreapp3.1\MultiplyDialog.pdb
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\CustomActionNew\obj\Debug\netcoreapp3.1\CustomActionNew.csproj.AssemblyReference.cache

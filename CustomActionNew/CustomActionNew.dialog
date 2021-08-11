@@ -56,6 +56,22 @@
             "id": "kMjqz1"
           },
           "activity": "${SendActivity_DidNotUnderstand()}"
+        },
+        {
+          "$kind": "MultiplyDialog",
+          "$designer": {
+            "id": "wgr0Gw"
+          },
+          "arg1": 50,
+          "arg2": 5,
+          "resultProperty": "dialog.product"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "cvMpWI"
+          },
+          "activity": "${SendActivity_cvMpWI()}"
         }
       ]
     }

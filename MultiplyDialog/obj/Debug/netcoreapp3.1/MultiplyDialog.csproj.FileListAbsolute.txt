@@ -1,0 +1,9 @@
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\bin\Debug\netcoreapp3.1\MultiplyDialog.deps.json
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\bin\Debug\netcoreapp3.1\MultiplyDialog.dll
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\bin\Debug\netcoreapp3.1\MultiplyDialog.pdb
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\obj\Debug\netcoreapp3.1\MultiplyDialog.csproj.AssemblyReference.cache
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\obj\Debug\netcoreapp3.1\MultiplyDialog.AssemblyInfoInputs.cache
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\obj\Debug\netcoreapp3.1\MultiplyDialog.AssemblyInfo.cs
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\obj\Debug\netcoreapp3.1\MultiplyDialog.csproj.CoreCompileInputs.cache
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\obj\Debug\netcoreapp3.1\MultiplyDialog.dll
+C:\Users\v-dvanhooser\Desktop\ComposerBots\v2\CustomActionNew\MultiplyDialog\obj\Debug\netcoreapp3.1\MultiplyDialog.pdb

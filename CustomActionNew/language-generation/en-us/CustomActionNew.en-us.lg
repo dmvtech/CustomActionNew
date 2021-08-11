@@ -15,3 +15,10 @@
 
 # SendActivity_DidNotUnderstand_text()
 - Sorry, I didn't get that.
+# SendActivity_cvMpWI()
+[Activity
+    Text = ${SendActivity_cvMpWI_text()}
+]
+
+# SendActivity_cvMpWI_text()
+- ${dialog.product}
